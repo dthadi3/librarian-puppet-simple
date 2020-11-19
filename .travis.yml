@@ -1,6 +1,10 @@
 ---
 language: ruby
 
+arch:
+  - AMD64
+  - ppc64le
+
 rvm:
   - 2.1.9
 
